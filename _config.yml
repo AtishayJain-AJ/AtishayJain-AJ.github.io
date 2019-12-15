@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Atishay Jain"
-  avatar           : 
-  bio              : 
-  location         : "Location"
+  #avatar           : 
+  bio              : "Computer Science and Engineering Undergraduate Student, IIT Gandhinagar"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OxSPWZoAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/atishay-jain-511950121/
+  linkedin         : atishay-jain-511950121/
   orcid            : 
   pinterest        :
   soundcloud       :
