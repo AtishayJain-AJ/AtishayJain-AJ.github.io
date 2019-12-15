@@ -7,5 +7,5 @@ Young Researcher’s Symposium, Hyderbad, January 2020'
 
 
 ---
-Authors - Ritik Dutta\*, Varun Gohil\*, Atishay Jain\* <br/>
+Authors - Ritik Dutta\*, Varun Gohil\*, <strong>Atishay Jain\*</strong> <br/>
 [Paper](https://atishayjain-ML.github.io/files/CoDS-COMAD2020.pdf)
