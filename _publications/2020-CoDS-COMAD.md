@@ -1,5 +1,7 @@
 
 ---
+title: "Effect of Feature Hashing on Fair Classification"
+permalink: /publication/2020-CoDS-COMAD
 collection: publications
 ---
 
