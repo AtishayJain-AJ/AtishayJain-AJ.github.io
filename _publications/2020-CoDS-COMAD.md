@@ -1,3 +1,8 @@
+
+---
+collection: publications
+---
+
 Effect of Feature Hashing on Fair Classification
 ======
 Published in International Conference on Data Science & Management of Data (CODS-COMAD)<br/>
