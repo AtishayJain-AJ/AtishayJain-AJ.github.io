@@ -8,8 +8,5 @@ venue: 'International Conference on Data Science & Management of Data (CODS-COMA
 paperurl: 'https://academicpages.github.io/files/CoDS-COMAD2020.pdf'
 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[Paper](https://academicpages.github.io/files/CoDS-COMAD2020.pdf)
 
-[Download paper here](https://academicpages.github.io/files/CoDS-COMAD2020.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
