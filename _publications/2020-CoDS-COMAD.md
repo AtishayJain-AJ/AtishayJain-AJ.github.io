@@ -8,6 +8,6 @@ venue: 'International Conference on Data Science & Management of Data (CODS-COMA
 paperurl: 'https://atishayjain-ml.github.io/files/CoDS-COMAD2020.pdf'
 
 ---
-Authors - D. Ritik*, G. Varun*, <strong>J. Atishay</strong>
+Authors - D. Ritik*, G. Varun*, <strong>J. Atishay*</strong><br/>
 [Paper](https://academicpages.github.io/files/CoDS-COMAD2020.pdf)
 
