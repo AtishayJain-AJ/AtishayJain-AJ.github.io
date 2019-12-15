@@ -12,4 +12,4 @@ I'm a Computer Science and Engineering undergraduate student at the Indian Insti
 
 My research interests lie the interestion of bioinformatics and machine learning. I have been particulary interested in the applications of machine learning in various domains, but I have started leaning towards solving important healthcare problems. I believe that machine learning will play an major role in transforming healthcare in the years to come.
 
-To know more about my research, please look at my research projects and publications.
+To know more about my research, please look at my CV and publications.
