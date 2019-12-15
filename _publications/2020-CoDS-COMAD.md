@@ -5,6 +5,7 @@ permalink: /publication/2020-CoDS-COMAD
 venue: 'International Conference on Data Science & Management of Data (CODS-COMAD)
 Young Researcher’s Symposium, Hyderbad, January 2020'
 
-authors: 'Ritik Dutta, Varun Gohil, Atishay Jain'
+
 ---
+Authors - Ritik Dutta*, Varun Gohil*, Atishay Jain*
 [Paper](https://atishayjain-ML.github.io/files/CoDS-COMAD2020.pdf)
